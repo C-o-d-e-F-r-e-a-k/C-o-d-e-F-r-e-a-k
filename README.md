@@ -21,6 +21,7 @@
  
  How to reach me: 
     - [Linkedin](https://www.linkedin.com/in/satyam-katiyar-a48bb4255/)
+    - [Email](226320074@gkv.ac.in)
     - [Instagram](https://www.instagram.com/satyam17d6f17a/)
     
 </div>
