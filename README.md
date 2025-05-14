@@ -9,7 +9,7 @@
   
  I’m currently working on some <b>web projects</b>.
   
- I’m currently learning **CSS, Javascript**.
+ I’m currently learning **MERN Stack**.
  
  <!--
  I’m looking to collaborate on **web projects**. 
