@@ -15,7 +15,7 @@
  I’m looking to collaborate on **web projects**. 
  -->
  
- Ask me about **HTML, CSS**.
+ Ask me about **MERN Stack**.
 
  Fact: <b>I prefer dark mode because light attracts bugs!</b>
  
